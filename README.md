@@ -47,3 +47,11 @@ EX 2: Simplified rules:
 1=CLIENT_N (random client id)
 
 44=Any price (price at which you will sell or buy the given product)
+
+
+
+usage :
+
+1. download / clone the repo
+2. run the fix generator : python Fix_Generate.py num-of-fix-msg-to-generate output-filename
+3. To see the stats : python Fix_Parser.py output-filename
