@@ -49,6 +49,7 @@ EX 2: Simplified rules:
 44=Any price (price at which you will sell or buy the given product)
 
 
+****************
 
 usage :
 
